@@ -48,6 +48,6 @@ To run the application, you can run the executable file generated in the Debug f
 
 ![Client Login Form Screenshot](https://github.com/theskytalos/myftp/blob/master/myftp-client-login-prtsc.jpg)
 
-![Client Main Form Screenshot](https://github.com/theskytalos/myftp/blob/master/myftp-client-main-prtsc.jpg)
+![Client Main Form Screenshot](https://github.com/theskytalos/myftp/blob/master/myftp-client-uploading-prtsc.jpg)
 
 ![Client Settings Form Screenshot](https://github.com/theskytalos/myftp/blob/master/myftp-client-settings-prtsc.jpg)
